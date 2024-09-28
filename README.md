@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravindhan S</h1>
-<h3 align="center">A passionate Python developer specializing in Machine Learning, AI, and Data Science, dedicated to transforming data into actionable insights and building intelligent solutions for real-world problems.</h3>
+<h3 align="center">A passionate Python developer specializing in Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arxvindhan&label=Profile%20views&color=0e75b6&style=flat" alt="arxvindhan" /> </p>
 
